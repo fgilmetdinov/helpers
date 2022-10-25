@@ -4,7 +4,7 @@ using System.Security.Cryptography;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
 
-namespace Rw.Barracuda.Client.Helpers
+namespace Noname.Client.Helpers
 {
     public static class CertificateHelper
     {

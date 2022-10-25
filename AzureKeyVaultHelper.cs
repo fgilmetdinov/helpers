@@ -5,7 +5,7 @@ using System.Security.Cryptography;
 using System.Security.Cryptography.X509Certificates;
 using System.Threading.Tasks;
 
-namespace Rw.Barracuda.Client.Helpers
+namespace Noname.Client.Helpers
 {
     //https://c-sharx.net/read-secrets-from-azure-key-vault-in-a-net-core-console-app
     public class AzureKeyVaultHelper

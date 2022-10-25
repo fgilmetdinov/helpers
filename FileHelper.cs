@@ -2,7 +2,7 @@
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Rw.Barracuda.Client.Helpers
+namespace Noname.Client.Helpers
 {
     public static class FileHelper
     {

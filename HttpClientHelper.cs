@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace Rw.Barracuda.Client.Helpers
+namespace Noname.Client.Helpers
 {
     internal class HttpClientHelper
     {
